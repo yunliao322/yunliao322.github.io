@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A simple portrait placeholder for the profile website template.</desc>
+  <rect width="480" height="600" fill="#f3f0eb"/>
+  <rect x="30" y="30" width="420" height="540" fill="none" stroke="#d8d0c3" stroke-width="2"/>
+  <circle cx="240" cy="214" r="90" fill="#8e9a8b"/>
+  <path d="M96 522c18-104 74-158 144-158s126 54 144 158" fill="#7c4038"/>
+  <path d="M130 522c14-72 56-109 110-109s96 37 110 109" fill="#fbfaf7" opacity=".35"/>
+  <text x="240" y="566" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-weight="700" fill="#4b4038">Yunhan Liao</text>
+</svg>
