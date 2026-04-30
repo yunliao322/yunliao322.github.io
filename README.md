@@ -1,12 +1,12 @@
 # Yunhan Liao Website Template
 
-This is a small static website prepared for `https://yunhanl.me/`. It follows the simple academic profile structure of the reference site while keeping only:
+This is a small static website prepared for Yunhan. It follows the simple academic profile structure of the reference site while keeping only:
 
 - Webpage/home
 - Research
 - Teaching
-- Writing
-- CV
+- Experience
+- CV & Education
 - Email
 - LinkedIn
 - Google Scholar
