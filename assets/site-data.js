@@ -43,7 +43,7 @@ window.siteData = {
       {
         heading: "Published",
         items: [
-          {citation: "Parker, C. H., Ferretti, A. M., Yaramada, L., Restle, D. J., Parsa, S., Liao, Y., & Georgakis, G. V. (2026). Comparing oncologic and surgical outcomes of robotic and open pancreatoduodenectomy: an updated meta-analysis. Surgical Endoscopy."
+          {citation: "Parker, C H, Ferretti, A M, Yaramada, L, Restle, D J, Parsa, S, Liao, Y, & Georgakis, G V (2026). Comparing oncologic and surgical outcomes of robotic and open pancreatoduodenectomy: an updated meta-analysis. Surgical Endoscopy."
           },       
           {citation: "Scarbrough KH, Malik S, Patel D, Pflueger K, Mermelstein L, Liao Y, Nemesure B. (2026). Factors associated with HPV vaccine uptake in college students following the COVID-19 pandemic. Vaccines."
           },
