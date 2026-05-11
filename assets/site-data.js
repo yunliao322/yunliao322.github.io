@@ -113,23 +113,23 @@ profileLinks: [
         heading: "Teaching Assistant, Stony Brook Medicine",
         description: "",
         items: [
-          "Winter 2024: HBH 550: Statistics in Life Sciences",
-          "Winter 2023: HBH 550: Statistics in Life Sciences"
+          "Winter 2024: HBH 550: Statistics in Life Sciences by Dr. Jie Yang",
+          "Winter 2023: HBH 550: Statistics in Life Sciences by Dr. Jie Yang"
         ]
       },
       {
         heading: "Teaching Assistant, Stony Brook University College of Business",
         description: ".",
         items: [
-          "Spring 2021: MBA 589: Operations Management Graduate"
+          "Spring 2021: MBA 589: Operations Management Graduate by Dr. Katsunobu Sasanuma"
         ]
       },
       {
         heading: "Teaching Assistant, Stony Brook University College of Engineering and Applied Sciences",
         description: "",
         items: [
-          "Winter 2019: AMS 210: Applied Linear Algebra",
-          "Summer 2018: AMS 210: Applied Linear Algebra"
+          "Winter 2019: AMS 210: Applied Linear Algebra by Dr. Debneil Saha Roy",
+          "Summer 2018: AMS 210: Applied Linear Algebra by Dr. Yue Wang"
         ]
       }
     ]
