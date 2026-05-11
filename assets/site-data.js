@@ -64,7 +64,7 @@ window.siteData = {
           {citation: "Shim HG, Gupta A, Fu A, Flores R Jr, Simmons R, Steinberg J, Guerson-Gil A, Liao Y, Yang J, LaComb JF, D'Souza LS, Monzur F, Li E, Guillaume A. (2024). Patient navigation reduces colonoscopy wait time disparities between underinsured and insured patients. Gastroenterology."
           },
           {citation: "Albano D, Dhamija A, Liao Y, et al. (2023). Lung cancer in nonsmokers: a risk factor analysis. Cancer Epidemiology."
-          },          
+          }          
         ]
       },
       {
@@ -81,7 +81,14 @@ window.siteData = {
           {trial: "A Phase II Study Evaluating Definitive Radiosurgical Decompression in Patients with High-Risk Spinal Metastases. Dr. Kartik Mani."
           }
         ]
-      }
+      },
+     {
+        heading: "Grant application",
+        items: [
+          {citation: "Disentangling the effect of Black/African Ancestry from confounding variables on colorectal cancer biology. Led by PI Dr. Alexandra Guillaume."
+          }    
+        ]
+      },
     ]
   },
 
