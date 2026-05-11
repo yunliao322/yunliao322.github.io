@@ -85,7 +85,7 @@ window.siteData = {
      {
         heading: "Grant application",
         items: [
-          {citation: "Disentangling the effect of Black/African Ancestry from confounding variables on colorectal cancer biology. Led by PI Dr. Alexandra Guillaume."
+          {citation: "Disentangling the effect of Black/African Ancestry from confounding variables on colorectal cancer biology. Led by PI Dr. Alexandra Guillaume. R01."
           }    
         ]
       },
