@@ -13,8 +13,7 @@ window.siteData = {
     photo: "assets/profile-photo.jpg",
     photoAlt: "Portrait of Yunhan Liao",
     cvPdfUrl: "files/Yunhan-Liao-CV.pdf",
-    footer: "Last update:"
-            "05/11/2026"
+    footer: "Last update: 05/11/2026"
   },
 
   navigation: [
@@ -33,8 +32,8 @@ window.siteData = {
 
   home: {
     paragraphs: [
-      "My research and professional work focus on applying rigorous, reproducible biostatistical methods to real-world clinical and administrative data to generate interpretable evidence that advances cancer research, clinical decision-making, and broader health outcomes research."
-      "I am a Biostatistician in the Biostatistics Shared Resource at Stony Brook Cancer Center (ST-SR), where I collaborate with multidisciplinary clinical and research teams across the full research lifecycle—from study conception, protocol development, and statistical analysis planning to data management, statistical modeling, result interpretation, manuscript preparation, and grant applications. My work spans cancer-focused and broader clinical research projects, with experience in clinical data, REDCap-based datasets, large-scale administrative claims data such as SPARCS, and national oncology registry data such as NCDB."
+      "My research and professional work focus on applying rigorous, reproducible biostatistical methods to real-world clinical and administrative data to generate interpretable evidence that advances cancer research, clinical decision-making, and broader health outcomes research.",
+      "I am a Biostatistician in the Biostatistics Shared Resource at Stony Brook Cancer Center (ST-SR), where I collaborate with multidisciplinary clinical and research teams across the full research lifecycle—from study conception, protocol development, and statistical analysis planning to data management, statistical modeling, result interpretation, manuscript preparation, and grant applications. My work spans cancer-focused and broader clinical research projects, with experience in clinical data, REDCap-based datasets, large-scale administrative claims data such as SPARCS, and national oncology registry data such as NCDB.",
       "Methodologically, my work includes logistic regression models, generalized linear regression models, survival analysis, mixed-effects models, propensity score matching, meta-analysis, and matched/cohort study designs using SAS and R. Across projects, I emphasize reproducible and transparent workflows, alignment between statistical methods and clinical objectives, and clear communication of statistical findings to support rigorous scientific conclusions, high-quality manuscripts, and competitive grant applications."
     ]
   },
