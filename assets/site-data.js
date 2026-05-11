@@ -13,7 +13,8 @@ window.siteData = {
     photo: "assets/profile-photo.jpg",
     photoAlt: "Portrait of Yunhan Liao",
     cvPdfUrl: "files/Yunhan-Liao-CV.pdf",
-    footer: "Copyright (c) 2026 Yunhan Liao"
+    footer: "Last update:"
+            "05/11/2026"
   },
 
   navigation: [
