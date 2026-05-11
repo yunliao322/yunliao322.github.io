@@ -23,38 +23,12 @@ window.siteData = {
     { label: "CV & Education", url: "cv.html" }
   ],
 
-  profileLinks: [
-    {
-      label: "CV",
-      iconClass: "ai ai-cv",
-      url: "files/Yunhan-Liao-CV.pdf"
-    },
-    {
-      label: "Email",
-      iconClass: "fa-solid fa-envelope",
-      url: "mailto:yunhan.liao@stonybrookmedicine.edu"
-    },
-    {
-      label: "GitHub",
-      iconClass: "fa-brands fa-github",
-      url: "https://github.com/yunliao322"
-    },
-    {
-      label: "LinkedIn",
-      iconClass: "fa-brands fa-linkedin-in",
-      url: "https://www.linkedin.com/in/yunhan-liao1122/"
-    },
-    {
-      label: "Google Scholar",
-      iconClass: "ai ai-google-scholar",
-      url: "https://scholar.google.com/citations?user=aJh4B8sAAAAJ&hl=en"
-    },
-    {
-      label: "ResearchGate",
-      iconClass: "ai ai-researchgate",
-      url: "https://www.researchgate.net/profile/Yunhan-Liao-2?ev=hdr_xprf"
-    }
-  ],
+profileLinks: [
+  { label: "Email", shortLabel: "Email", url: "mailto:yunhan.liao@stonybrookmedicine.edu" },
+  { label: "LinkedIn", shortLabel: "IN", url: "https://www.linkedin.com/in/yunhan-liao1122/" },
+  { label: "Google Scholar", shortLabel: "GS", url: "https://scholar.google.com/citations?user=aJh4B8sAAAAJ&hl=en" },
+  { label: "ResearchGate", shortLabel: "RG", url: "https://www.researchgate.net/profile/Yunhan-Liao-2?ev=hdr_xprf" }
+],
 
   home: {
     paragraphs: [
